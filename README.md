@@ -1,2 +1,2 @@
 # Python-Reminder-V1
-I made a reminder from python which tells you what you wanted to get reminded of in the time you input.
+I made a reminder from python, and a notification system for ubuntu in which you can edit the body and the summary through the code itself.
